@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Unit Converter</string>
+
+    <string-array name="length_dropdown">
+        <item>in</item>
+        <item>ft</item>
+        <item>yd</item>
+        <item>mi</item>
+        <item>mm</item>
+        <item>cm</item>
+        <item>m</item>
+        <item>km</item>
+    </string-array>
+</resources>
