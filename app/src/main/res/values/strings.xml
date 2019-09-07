@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">Unit Converter</string>
 
-    <string-array name="length_dropdown">
+    <string-array name="all_units">
         <item>in</item>
         <item>ft</item>
         <item>yd</item>
@@ -10,5 +10,97 @@
         <item>cm</item>
         <item>m</item>
         <item>km</item>
+        <item>µg</item>
+        <item>mg</item>
+        <item>g</item>
+        <item>kg</item>
+        <item>lb</item>
+        <item>oz</item>
+        <item>N</item>
+        <item>stone</item>
+        <item>°C</item>
+        <item>°F</item>
+        <item>K</item>
+        <item>mph</item>
+        <item>km/hr</item>
+        <item>ns</item>
+        <item>µs</item>
+        <item>ms</item>
+        <item>s</item>
+        <item>min</item>
+        <item>day</item>
+        <item>year</item>
+        <item>century</item>
+        <item>millennium</item>
+        <item>ml</item>
+        <item>l</item>
+        <item>kl</item>
+        <item>m³</item>
+        <item>ft³</item>
+        <item>yd³</item>
+        <item>fl oz</item>
+        <item>cup</item>
+        <item>pt</item>
+        <item>qt</item>
+        <item>gal</item>
+    </string-array>
+
+    <string-array name="length_units">
+        <item>in</item>
+        <item>ft</item>
+        <item>yd</item>
+        <item>mi</item>
+        <item>mm</item>
+        <item>cm</item>
+        <item>m</item>
+        <item>km</item>
+    </string-array>
+
+    <string-array name="weight_units">
+        <item>µg</item>
+        <item>mg</item>
+        <item>g</item>
+        <item>kg</item>
+        <item>lb</item>
+        <item>oz</item>
+        <item>N</item>
+        <item>stone</item>
+    </string-array>
+
+    <string-array name="temperature_units">
+        <item>°C</item>
+        <item>°F</item>
+        <item>K</item>
+    </string-array>
+
+    <string-array name="speed_units">
+        <item>mph</item>
+        <item>km/hr</item>
+    </string-array>
+
+    <string-array name="time_units">
+        <item>ns</item>
+        <item>µs</item>
+        <item>ms</item>
+        <item>s</item>
+        <item>min</item>
+        <item>day</item>
+        <item>year</item>
+        <item>century</item>
+        <item>millennium</item>
+    </string-array>
+
+    <string-array name="volume_units">
+        <item>ml</item>
+        <item>l</item>
+        <item>kl</item>
+        <item>m³</item>
+        <item>ft³</item>
+        <item>yd³</item>
+        <item>fl oz</item>
+        <item>cup</item>
+        <item>pt</item>
+        <item>qt</item>
+        <item>gal</item>
     </string-array>
 </resources>
