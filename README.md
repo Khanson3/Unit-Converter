@@ -15,3 +15,29 @@ The most challenging part was getting familiar with Android Studio. I had to lea
 
 I tried going above and beyond in this project by adding as multitude of different units as well as types of units (length, weight, temperature, speed, time, and volume). With this abundance of different data types, I thought of the idea to make the output unit Spinner to be dependent on the input unit. A difficulty I ran into was converting between units that are vastly different in terms of size/precision. For this reason, I chose to eliminate nanoseconds, milliseconds, years, centuries, and milleniums to keep the range fairly close--the amount of nanoseconds in a millenium is too large to be contained in a double if that wasn't obvious.
 
+**Coding Log**
+
+**8/30**
+- Started project
+- Started design layout
+- (GitHub wasn't properly setup so I had to create a new repo on 9/4)
+
+//Explanation for potential lack of productivity between this time: CS 301 paper
+
+**9/4**
+- Solid design layout to work with
+
+**9/7 (Morning)**
+- Setup input spinner with units
+- Slight design modifications
+
+**9/7 (Night)**
+- Setup output spinner
+  - contains units related to input unit
+  
+**9/7 (Late late night) - 9/8 (Early early morning)**
+- Spontaneous, 3-hour, late-night coding session
+  - finished conversion logic
+  - finished programming button to display conversion in the output value TextView
+  - fixed warnings about hardcoded strings and autofillHints
+  - made custom app logo design
