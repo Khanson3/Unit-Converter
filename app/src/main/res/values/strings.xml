@@ -1,6 +1,14 @@
 <resources>
     <string name="app_name">Unit Converter</string>
 
+    <string name="input_value">Input Value</string>
+
+    <string name="equal_sign">=</string>
+
+    <string name="output_value">Output Value</string>
+
+    <string name="convert">Convert</string>
+
     <string-array name="all_units">
         <item>in</item>
         <item>ft</item>
@@ -23,21 +31,16 @@
         <item>K</item>
         <item>mph</item>
         <item>km/hr</item>
-        <item>ns</item>
-        <item>µs</item>
         <item>ms</item>
         <item>s</item>
         <item>min</item>
+        <item>hr</item>
         <item>day</item>
-        <item>year</item>
-        <item>century</item>
-        <item>millennium</item>
-        <item>ml</item>
-        <item>l</item>
-        <item>kl</item>
-        <item>m³</item>
+        <item>mL</item>
+        <item>L</item>
+        <item>kL</item>
+        <item>cm³</item>
         <item>ft³</item>
-        <item>yd³</item>
         <item>fl oz</item>
         <item>cup</item>
         <item>pt</item>
@@ -79,24 +82,19 @@
     </string-array>
 
     <string-array name="time_units">
-        <item>ns</item>
-        <item>µs</item>
         <item>ms</item>
         <item>s</item>
         <item>min</item>
+        <item>hr</item>
         <item>day</item>
-        <item>year</item>
-        <item>century</item>
-        <item>millennium</item>
     </string-array>
 
     <string-array name="volume_units">
-        <item>ml</item>
-        <item>l</item>
-        <item>kl</item>
-        <item>m³</item>
+        <item>mL</item>
+        <item>L</item>
+        <item>kL</item>
+        <item>cm³</item>
         <item>ft³</item>
-        <item>yd³</item>
         <item>fl oz</item>
         <item>cup</item>
         <item>pt</item>
