@@ -40,4 +40,6 @@ I tried going above and beyond in this project by adding as multitude of differe
   - finished conversion logic
   - finished programming button to display conversion in the output value TextView
   - fixed warnings about hardcoded strings and autofillHints
-  - made custom app logo design
+  - made custom app logo design:
+  
+![Image description](design_images/unit_converter_logo.png)
