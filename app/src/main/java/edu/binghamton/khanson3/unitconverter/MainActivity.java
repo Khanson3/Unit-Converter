@@ -42,6 +42,8 @@ public class MainActivity extends AppCompatActivity {
         inputSpinner.setOnItemSelectedListener(new AdapterView.OnItemSelectedListener() {
             @Override
             public void onItemSelected(AdapterView<?> adapterView, View view, int i, long l) {
+                outputTextView.setText("");
+
                 String unit = ((TextView) adapterView.getChildAt(0)).getText().toString();
                 ((TextView) adapterView.getChildAt(0)).setTextColor(Color.WHITE);
                 ((TextView) adapterView.getChildAt(0)).setTextSize(18.65f);
@@ -70,6 +72,8 @@ public class MainActivity extends AppCompatActivity {
                             outputSpinner.setOnItemSelectedListener(new AdapterView.OnItemSelectedListener() {
                                 @Override
                                 public void onItemSelected(AdapterView<?> adapterView, View view, int i, long l) {
+                                    outputTextView.setText("");
+
                                     ((TextView) adapterView.getChildAt(0)).setTextColor(Color.WHITE);
                                     ((TextView) adapterView.getChildAt(0)).setTextSize(18.65f);
                                 }
